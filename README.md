@@ -16,7 +16,7 @@ Click any project to open it.
 **[Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes)**, **[Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)**
 
 
-### HTML Projects
+## The Projects
 Click any of the images to open the project.
 
 <table align="left">
