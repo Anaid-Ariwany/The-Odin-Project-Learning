@@ -7,17 +7,26 @@ This repository contains exercises, small projects, and notes completed while fo
 
 
 ## Sections/ Folders
+_Click any section to open it on the repo._
 - [HTML](HTML)
 - [CSS](CSS)
 
-## Projects List
-Click any project to open it.
 
-**[Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes)**, **[Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)**
+## Projects Lists
+### _Source (TOP) List_
+_Click any project to open its source!_
+
+**1. [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)**, **2. [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)**
+
+
+### _Projects List on Repo_
+_Click any project to open its folder on the repo!_
+
+1. [Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes), 2. [Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)
 
 
 ## The Projects
-Click any of the images to open the project.
+_Click any of the images to open the project._
 
 <table align="left">
   <tr>
