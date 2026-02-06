@@ -59,5 +59,20 @@ _Click any of the images to open the project._
       <strong>Landing Page</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="JavaScript/Projects/rockPaperScissors/">
+        <img 
+          src="JavaScript/Projects/rockPaperScissors/websiteImage.png"
+          width="420"
+          style="border-radius: 5rem;"
+          alt="Rock Paper Scissors"
+        />
+      </a>
+      <br /><br />
+      <strong>Recipes</strong>
+    </td>
+
+  </tr>
 </table>
 
