@@ -1,0 +1,68 @@
+# 1. Understanding the Problem
+- Creating a rock, paper, scissors game program that takes the user's input and the computer's random input, compares them, decides a winner, and awards the winner points based on the rules of the game. 
+- There are only 3 valid inputs: rock, paper, scissors
+- The rules are:
+    1. Rock crushes Scissors
+    2. Scissors cuts paper
+    3. Paper covers Rock
+- The possible choices:
+    1. Rock & Scissors: Rock wins
+    2. Rock & Paper: Paper wins
+    3. Scissors & Paper: Scissors wins
+
+
+# 2. Planning
+2.1. GUI:
+- Does your program have a user interface? No
+- What will it look like? No GUI
+- What functionality will the interface have? Just display on console
+
+2.2 Inputs:
+- What inputs will your program have? 
+    - numberOfRounds
+    - humanChoice
+    - computerChoice
+- Will the user enter data or will you get input from somewhere else?
+    - numberOfRounds: prompt user to enter how many rounds they want to play
+    - humanChoice: prompt user to enter choice
+    - computerChoice: computer randomly chooses using math.random functions
+
+2.3. Outputs:
+- What’s the desired output?
+    - humanChoice and computerChoice
+    - humanScore and computerScore
+    - Winner of the game
+
+2.4. Necessary Steps:  
+- Given your inputs, what are the steps necessary to return the desired output?
+    - The user must decide how many game rounds they want to play
+    - The inputs are then taken, lowercased, and compared
+    - The scores are increamented depending on the winner of that round and the number of rounds are decreamented
+    - The total scores are given at the end of each game and a winner declared
+
+
+# 3. Pseudocode
+    1. Program starts
+    2. Initialize numberOfRounds, humanChoice, computerChoice, humanScore=0, and computerScore=0
+    3. User is prompted to enter number of rounds they want to play = numberOfRounds
+    4. User makes a choice (Rock/Paper/Scissors) = humanChoice
+    5. Computer randomly makes a choice (Rock/Paper/Scissors) = computerChoice
+    6. Loop the game till number of rounds <=0
+        - for (i=numberOfRounds; i<=0; --i){
+            7. Choices are compared:
+                - if ((humanChoice==rock && computerChoice==scissors) ||
+                    (humanChoice==paper && computerChoice==rock) ||
+                    (humanChoice==scissors && computerChoice==paper)) {
+                        humanScore = ++humanScore;
+                        numberOfRounds = --numberOfRounds;
+                        console.log("humanChoice: "+humanChoice+ " computerChoice: "+computerChoice+ " humanScore: "+humanScore+" computerScore: "+computerScore+" Rounds left: "+numberOfRounds)
+                    }
+                    else{
+                        computerScore = ++computerScore;
+                        numberOfRounds = --numberOfRounds;
+                        console.log("humanChoice: "+humanChoice+ " computerChoice: "+computerChoice+ " humanScore: "+humanScore+" computerScore: "+computerScore+" Rounds left: "+numberOfRounds)
+                    }
+
+                    console.log("humanChoice: "+humanChoice+ " computerChoice: "+computerChoice+ " humanScore: "+humanScore+" computerScore: "+computerScore+" Rounds left: "+numberOfRounds)
+        }
+        
