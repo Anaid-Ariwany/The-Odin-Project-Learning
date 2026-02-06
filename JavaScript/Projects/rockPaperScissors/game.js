@@ -18,7 +18,7 @@ function getComputerChoice() {
         return "scissors";
     }
 }
-/* console.log(getComputerChoice()); */
+/* alert(getComputerChoice()); */
 
 
 //create a function that takes the user's choice and returns it
@@ -39,21 +39,30 @@ function playRound(humanChoice, computerChoice) {
         (humanChoice == "paper" && computerChoice == "rock") ||
         (humanChoice == "scissors" && computerChoice == "paper")) {
         ++humanScore;
-        console.log(`You win! ${humanChoice} beats ${computerChoice}. Your score: ${humanScore} Computer score: ${computerScore}`);
+        alert(`You win! ${humanChoice} beats ${computerChoice}. Your score: ${humanScore} Computer score: ${computerScore}`);
     } else if (humanChoice == computerChoice) {
-        console.log(`It's a tie! You both chose ${humanChoice}. Your score: ${humanScore} Computer score: ${computerScore}`);
+        alert(`It's a tie! You both chose ${humanChoice}. Your score: ${humanScore} Computer score: ${computerScore}`);
     } else {
         ++computerScore;
-        console.log(`You lose! ${computerChoice} beats ${humanChoice}. Your score: ${humanScore} Computer score: ${computerScore}`);
+        alert(`You lose! ${computerChoice} beats ${humanChoice}. Your score: ${humanScore} Computer score: ${computerScore}`);
 
     }
+
 }
-/* console.log(playRound()); */
+/* alert(playRound()); */
 
 //create a function that plays 5 rounds of rock paper scissors and declares a winner at the end
 function game() {
     for (let i = 0; i < 5; i++) {
         playRound();
     }
+    //declare a winner at the end of 5 rounds
+    if (humanScore > computerScore) {
+        alert(`Congratulations! You win the game! Final score: You: ${humanScore} - Computer: ${computerScore}`);
+    } else if (humanScore < computerScore) {
+        alert(`Sorry, you lose the game. Final score: You: ${humanScore} - Computer: ${computerScore}`);
+    } else {
+        alert(`It's a tie! Final score: You: ${humanScore} - Computer: ${computerScore}`);
+    }
 }
-console.log(game());
+game();

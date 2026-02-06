@@ -70,7 +70,7 @@ _Click any of the images to open the project._
         />
       </a>
       <br /><br />
-      <strong>Recipes</strong>
+      <strong>Rock Paper Scissors</strong>
     </td>
 
   </tr>
