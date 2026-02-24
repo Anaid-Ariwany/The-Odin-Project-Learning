@@ -72,7 +72,18 @@ _Click any of the images to open the project._
       <br /><br />
       <strong>Rock Paper Scissors</strong>
     </td>
-
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="JavaScript/Projects/rockPaperScissorsUI/">
+        <img 
+          src="JavaScript/Projects/rockPaperScissorsUI/websiteReview.webp"
+          width="420"
+          style="border-radius: 5rem;"
+          alt="Rock Paper Scissors UI"
+        />
+      </a>
+      <br /><br />
+      <strong>Rock Paper Scissors UI</strong>
+    </td>
   </tr>
 </table>
 

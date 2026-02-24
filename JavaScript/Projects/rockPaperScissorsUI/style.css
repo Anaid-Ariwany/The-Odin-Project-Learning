@@ -1,0 +1,93 @@
+body {
+    background-color: #9A6361;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: serif;
+}
+
+main {
+    background-color: #3F3335;
+    opacity: 0.8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    max-width: max-content;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    margin-top: 10rem;
+    font-size: 1rem;
+}
+
+button {
+    padding: 0.5rem 2rem;
+    font-size: 1rem;
+    font-weight: 400;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 0.8;
+    font-weight: bold;
+}
+
+.buttonsDiv {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.buttonsDiv p {
+    color: white;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+
+.buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.rockButton {
+    background-color: #A9854D;
+}
+
+.paperButton {
+    background-color: #2BD2BB;
+}
+
+.scissorsButton {
+    background-color: #EC5458;
+}
+
+.displayDivs {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+#resultsDisplay {
+    white-space: pre-line;
+    background-color: black;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    min-width: 3rem;
+    min-height: 3rem;
+    border: 2px solid #A9854D;
+}
+
+#winnerDisplay {
+    background-color: black;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    min-width: 3rem;
+    min-height: 3rem;
+    border: 2px solid #2BD2BB;
+}
