@@ -17,17 +17,17 @@ _Click any section to open it on the repo._
 ### _Source (TOP) List_
 _Click any project to open its source!_
 
-**1. [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)** **2. [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)**
+**1. [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)**    **2. [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)**
 
-**3. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#step-5-write-the-logic-to-play-a-single-round)**
+**3. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#step-5-write-the-logic-to-play-a-single-round)**    **4. [Rock Paper Scissors UI](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)**
 
 
 ### _Projects List on Repo_
 _Click any project to open its folder on the repo!_
 
-1. [Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes), 2. [Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)
+1. [Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes)    2. [Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)
 
-3. [Rock Paper Scissors](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissors)
+3. [Rock Paper Scissors](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissors)    4. [Rock Paper Scissors UI](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissorsUI)
 
 ## The Projects
 _Click any of the images to open the project._
