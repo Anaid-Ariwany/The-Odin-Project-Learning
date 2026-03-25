@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Flexbox to make the divs appear as a grid */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 40rem;
+    height: 40rem;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+/* Each cell in the grid */
+.square {
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
