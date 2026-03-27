@@ -102,6 +102,18 @@ _Click any of the images to open the project._
       <br /><br />
       <strong>Etch-a-Sketch</strong>
     </td>
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="https://github.com/Anaid-Ariwany/Calculator">
+        <img 
+          src="JavaScript/Projects/calculatorPreview.webp"
+          width="420"
+          style="border-radius: 5rem;"
+          alt="Calculator"
+        />
+      </a>
+      <br /><br />
+      <strong>Final Project: Calculator</strong>
+    </td>
   </tr>
 </table>
 
