@@ -21,7 +21,7 @@ _Click any project to open its source!_
 
 **3. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#step-5-write-the-logic-to-play-a-single-round)**    **4. [Rock Paper Scissors UI](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)**
 
-**5. [Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)**
+**5. [Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)**  **6. [Calc](https://www.theodinproject.com/lessons/foundations-calculator)**
 
 
 ### _Projects List on Repo_
@@ -31,7 +31,7 @@ _Click any project to open its folder on the repo!_
 
 3. [Rock Paper Scissors](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissors)    4. [Rock Paper Scissors UI](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissorsUI)
 
-5. [Etch-a-Sketch](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/Etch-a-Sketch)
+5. [Etch-a-Sketch](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/Etch-a-Sketch)    6. [Calculator](https://github.com/Anaid-Ariwany/Calculator)
 
 ## The Projects
 _Click any of the images to open the project._
