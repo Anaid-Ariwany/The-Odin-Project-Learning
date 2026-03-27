@@ -21,6 +21,8 @@ _Click any project to open its source!_
 
 **3. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#step-5-write-the-logic-to-play-a-single-round)**    **4. [Rock Paper Scissors UI](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)**
 
+**5. [Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)**
+
 
 ### _Projects List on Repo_
 _Click any project to open its folder on the repo!_
@@ -28,6 +30,8 @@ _Click any project to open its folder on the repo!_
 1. [Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes)    2. [Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)
 
 3. [Rock Paper Scissors](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissors)    4. [Rock Paper Scissors UI](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissorsUI)
+
+5. [Etch-a-Sketch](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/Etch-a-Sketch)
 
 ## The Projects
 _Click any of the images to open the project._
@@ -37,7 +41,7 @@ _Click any of the images to open the project._
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="HTML/Projects/Recipes/">
         <img 
-          src="HTML/Projects/Recipes/image.png"
+          src="HTML/Projects/Recipes/websiteImage.webp"
           width="420"
           style="border-radius: 5rem;"
           alt="Recipes"
@@ -49,7 +53,7 @@ _Click any of the images to open the project._
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="CSS/Projects/Landing Page/">
         <img 
-          src="CSS/Projects/Landing Page/websiteImage.png"
+          src="CSS/Projects/Landing Page/websiteImage.webp"
           width="420"
           style="border-radius: 5rem;"
           alt="Landing Page"
@@ -63,7 +67,7 @@ _Click any of the images to open the project._
     <td align="center" style="padding: 16px; border-radius: 5rem;">
       <a href="JavaScript/Projects/rockPaperScissors/">
         <img 
-          src="JavaScript/Projects/rockPaperScissors/websiteImage.png"
+          src="JavaScript/Projects/rockPaperScissors/websiteImage.webp"
           width="420"
           style="border-radius: 5rem;"
           alt="Rock Paper Scissors"
@@ -83,6 +87,20 @@ _Click any of the images to open the project._
       </a>
       <br /><br />
       <strong>Rock Paper Scissors UI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 16px; border-radius: 5rem;">
+      <a href="JavaScript/Projects/Etch-a-Sketch/">
+        <img 
+          src="JavaScript/Projects/Etch-a-Sketch/websiteImage.webp"
+          width="420"
+          style="border-radius: 5rem;"
+          alt="Etch-a-Sketch"
+        />
+      </a>
+      <br /><br />
+      <strong>Etch-a-Sketch</strong>
     </td>
   </tr>
 </table>
