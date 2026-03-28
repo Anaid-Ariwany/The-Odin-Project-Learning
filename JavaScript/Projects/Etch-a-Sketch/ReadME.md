@@ -1,4 +1,8 @@
 # Etch-a-Sketch Project
+
+[Live Demo](https://anaid-ariwany.github.io/Etch-a-Sketch/)
+
+### Instructions
 1. Create a webpage with a 16x16 grid of square divs.✅
     - Create the divs using JavaScript. Don’t try to create them by hand by copying and pasting them in your HTML file!
 

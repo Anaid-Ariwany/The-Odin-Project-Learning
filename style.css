@@ -172,7 +172,7 @@ section {
     background-color: var(--surface);
     color: var(--text-primary);
     border: none;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     padding: 1rem;
     width: 100%;
 }

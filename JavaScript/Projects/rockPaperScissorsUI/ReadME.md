@@ -1,5 +1,7 @@
 # Rock Paper Scissors with UI
 
+[live Demo](https://anaid-ariwany.github.io/The-Odin-Project-Learning/JavaScript/Projects/rockPaperScissorsUI/)
+
 In our UI, the player should be able to play the game by clicking on buttons rather than typing their answer in a prompt.
 
 1. For now, remove the logic that plays exactly five rounds.

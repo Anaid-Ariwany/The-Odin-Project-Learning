@@ -1,43 +1,43 @@
 const projects = [
     {
-        name: "JobTracker",
-        description: "A job application tracker tool. Helps users manage and track their job applications in one place.",
-        image: "assets/projects/jobTracker.webp",
-        live: "https://anaid-ariwany.github.io/Job-Tracker/",
-        github: "https://github.com/Anaid-Ariwany/Job-Tracker",
-        source: "The Odin Project"
+        name: "Recipe Page",
+        description: "A basic HTML recipe page with a list of recipes and their instructions.",
+        image: "assets/recipe.webp",
+        live: "https://anaid-ariwany.github.io/The-Odin-Project-Learning/HTML/Projects/Recipes/",
+        github: "https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes",
+        source: "https://www.theodinproject.com/lessons/foundations-recipes"
     },
     {
-        name: "TechStore",
-        description: "A tech product showcase page. Sample design of an e-commerce website.",
-        image: "assets/projects/techStore.webp",
-        live: "https://anaid-ariwany.github.io/TechStore/",
-        github: "https://github.com/Anaid-Ariwany/TechStore",
-        source: "The Odin Project"
+        name: "Landing Page",
+        description: "A simple static landing page styled with CSS. No responsive design.",
+        image: "assets/landingPage.webp",
+        live: "https://anaid-ariwany.github.io/The-Odin-Project-Learning/CSS/Projects/Landing%20Page/",
+        github: "https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page",
+        source: "https://www.theodinproject.com/lessons/foundations-landing-page"
     },
     {
-        name: "Savoria",
-        description: "A modern restaurant landing page. Designed to showcase the restaurant's menu, ambiance, and unique offerings.",
-        image: "assets/projects/savoria.webp",
-        live: "https://anaid-ariwany.github.io/Savoria/",
-        github: "https://github.com/Anaid-Ariwany/Savoria",
-        source: "The Odin Project"
+        name: "Rock Paper Scissors",
+        description: "A simple game of rock, paper, scissors implemented with HTML, CSS, and JavaScript. No responsive design.",
+        image: "assets/rockPaperScissors.webp",
+        live: "https://anaid-ariwany.github.io/The-Odin-Project-Learning/JavaScript/Projects/rockPaperScissorsUI/",
+        github: "https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissorsUI",
+        source: "https://www.theodinproject.com/lessons/foundations-rock-paper-scissors"
     },
     {
-        name: "DevLaunch",
-        description: "A marketing + listing website for an annual developer conference.",
-        image: "assets/projects/devLaunch.webp",
-        live: "https://anaid-ariwany.github.io/DevLaunch/",
-        github: "https://github.com/Anaid-Ariwany/DevLaunch",
-        source: "The Odin Project"
+        name: "Etch-a-Sketch",
+        description: "A simple drawing app implemented with HTML, CSS, and JavaScript. No responsive design.",
+        image: "assets/etch-a-sketch.webp",
+        live: "https://anaid-ariwany.github.io/Etch-a-Sketch/",
+        github: "https://github.com/Anaid-Ariwany/Etch-a-Sketch",
+        source: "https://www.theodinproject.com/lessons/foundations-etch-a-sketch"
     },
     {
-        name: "FlowTrack",
-        description: "A SaaS landing page. A polished, professional marketing website for a fictional task management tool called FlowTrack.",
-        image: "assets/projects/flowTrack.webp",
-        live: "https://anaid-ariwany.github.io/Flow-Track/",
-        github: "https://github.com/Anaid-Ariwany/Flow-Track",
-        source: "The Odin Project"
+        name: "Final Project: Calculator",
+        description: "A simple calculator implemented with HTML, CSS, and JavaScript. Responsive design.",
+        image: "assets/calculatorPreview.webp",
+        live: "https://anaid-ariwany.github.io/Calculator/",
+        github: "https://github.com/Anaid-Ariwany/Calculator/",
+        source: "https://www.theodinproject.com/lessons/foundations-calculator"
     }
 ];
 
