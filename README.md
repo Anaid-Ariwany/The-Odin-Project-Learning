@@ -1,119 +1,26 @@
-# The Odin Project (TOP) – Learning Repository
+# The Odin Project - Fundamentals Learning Repository
 
-This repository contains exercises, small projects, and notes completed while following **[The Odin Project](https://www.theodinproject.com/)** curriculum.
+[Live Site](https://anaid-ariwany.github.io/The-Odin-Project-Learning/)
 
+This repository contains my learning projects and exercises from The Odin Project's Full Stack JavaScript curriculum. It serves as a personal record of my progress and a showcase of the skills I've acquired along the way.
 
-**⚠️⚠️⚠️ Major projects are extracted into standalone repositories. ⚠️⚠️⚠️**
+### Learning Path
+This repository contains the fundamentals learning path, which includes projects and exercises focused on:
+  - HTML 
+  - CSS
+  - JavaScript
+  - Basic web development concepts
 
+Each assignment and project is designed to reinforce the skills learned in the curriculum and provide practical experience in building web applications.
 
-## Sections/ Folders
-_Click any section to open it on the repo._
-- [HTML](HTML)
-- [CSS](CSS)
-- [JavaScript](JavaScript)
+### Folder Structure
+- `HTML/`: Contains HTML projects and exercises.
+- `CSS/`: Contains CSS projects and exercises.
+- `JavaScript/`: Contains JavaScript projects and exercises.
+- `./Projects/`: Contains larger projects that integrate multiple skills.
 
-
-## Projects Lists
-### _Source (TOP) List_
-_Click any project to open its source!_
-
-**1. [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)**    **2. [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)**
-
-**3. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors#step-5-write-the-logic-to-play-a-single-round)**    **4. [Rock Paper Scissors UI](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)**
-
-**5. [Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)**  **6. [Calc](https://www.theodinproject.com/lessons/foundations-calculator)**
-
-
-### _Projects List on Repo_
-_Click any project to open its folder on the repo!_
-
-1. [Recipes](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/HTML/Projects/Recipes)    2. [Landing Page](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/CSS/Projects/Landing%20Page)
-
-3. [Rock Paper Scissors](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissors)    4. [Rock Paper Scissors UI](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/rockPaperScissorsUI)
-
-5. [Etch-a-Sketch](https://github.com/Anaid-Ariwany/The-Odin-Project-Learning/tree/main/JavaScript/Projects/Etch-a-Sketch)    6. [Calculator](https://github.com/Anaid-Ariwany/Calculator)
-
-## The Projects
-_Click any of the images to open the project._
-
-<table align="left">
-  <tr>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="HTML/Projects/Recipes/">
-        <img 
-          src="HTML/Projects/Recipes/websiteImage.webp"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Recipes"
-        />
-      </a>
-      <br /><br />
-      <strong>Recipes</strong>
-    </td>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="CSS/Projects/Landing Page/">
-        <img 
-          src="CSS/Projects/Landing Page/websiteImage.webp"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Landing Page"
-        />
-      </a>
-      <br /><br />
-      <strong>Landing Page</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="JavaScript/Projects/rockPaperScissors/">
-        <img 
-          src="JavaScript/Projects/rockPaperScissors/websiteImage.webp"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Rock Paper Scissors"
-        />
-      </a>
-      <br /><br />
-      <strong>Rock Paper Scissors</strong>
-    </td>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="JavaScript/Projects/rockPaperScissorsUI/">
-        <img 
-          src="JavaScript/Projects/rockPaperScissorsUI/websiteReview.webp"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Rock Paper Scissors UI"
-        />
-      </a>
-      <br /><br />
-      <strong>Rock Paper Scissors UI</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="JavaScript/Projects/Etch-a-Sketch/">
-        <img 
-          src="JavaScript/Projects/Etch-a-Sketch/websiteImage.webp"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Etch-a-Sketch"
-        />
-      </a>
-      <br /><br />
-      <strong>Etch-a-Sketch</strong>
-    </td>
-    <td align="center" style="padding: 16px; border-radius: 5rem;">
-      <a href="https://github.com/Anaid-Ariwany/Calculator">
-        <img 
-          src="JavaScript/Projects/calculatorPreview.webp"
-          width="420"
-          style="border-radius: 5rem;"
-          alt="Calculator"
-        />
-      </a>
-      <br /><br />
-      <strong>Final Project: Calculator</strong>
-    </td>
-  </tr>
-</table>
-
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git and GitHub for version control
